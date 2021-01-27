@@ -1,0 +1,6 @@
+framework module Pods_PageCycleView {
+  umbrella header "Pods-PageCycleView-umbrella.h"
+
+  export *
+  module * { export * }
+}
